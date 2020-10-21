@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="250mm" height="240mm" 
+     viewBox="0 0 708.661 680.315" 
+     xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<desc>output.svg, created with the Board library (Copyleft) 2007 Sebastien Fourey</desc>
+<line x1="0" y1="680.32" x2="0" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="28.35" y1="680.32" x2="28.35" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="56.69" y1="680.32" x2="56.69" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="85.04" y1="680.32" x2="85.04" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="113.39" y1="680.32" x2="113.39" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="141.73" y1="680.32" x2="141.73" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="170.08" y1="680.32" x2="170.08" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="198.43" y1="680.32" x2="198.43" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="226.77" y1="680.32" x2="226.77" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="255.12" y1="680.32" x2="255.12" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="283.46" y1="680.32" x2="283.46" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="311.81" y1="680.32" x2="311.81" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="340.16" y1="680.32" x2="340.16" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="368.5" y1="680.32" x2="368.5" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="396.85" y1="680.32" x2="396.85" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="425.2" y1="680.32" x2="425.2" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="453.54" y1="680.32" x2="453.54" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="481.89" y1="680.32" x2="481.89" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="510.24" y1="680.32" x2="510.24" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="538.58" y1="680.32" x2="538.58" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="566.93" y1="680.32" x2="566.93" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="595.28" y1="680.32" x2="595.28" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="623.62" y1="680.32" x2="623.62" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="651.97" y1="680.32" x2="651.97" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="680.32" y1="680.32" x2="680.32" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="708.66" y1="680.32" x2="708.66" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="680.32" x2="708.66" y2="680.32" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="651.97" x2="708.66" y2="651.97" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="623.62" x2="708.66" y2="623.62" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="595.28" x2="708.66" y2="595.28" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="566.93" x2="708.66" y2="566.93" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="538.58" x2="708.66" y2="538.58" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="510.24" x2="708.66" y2="510.24" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="481.89" x2="708.66" y2="481.89" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="453.54" x2="708.66" y2="453.54" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="425.2" x2="708.66" y2="425.2" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="396.85" x2="708.66" y2="396.85" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="368.5" x2="708.66" y2="368.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="340.16" x2="708.66" y2="340.16" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="311.81" x2="708.66" y2="311.81" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="283.46" x2="708.66" y2="283.46" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="255.12" x2="708.66" y2="255.12" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="226.77" x2="708.66" y2="226.77" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="198.43" x2="708.66" y2="198.43" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="170.08" x2="708.66" y2="170.08" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="141.73" x2="708.66" y2="141.73" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="113.39" x2="708.66" y2="113.39" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="85.04" x2="708.66" y2="85.04" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="56.69" x2="708.66" y2="56.69" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="28.35" x2="708.66" y2="28.35" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="0" x2="708.66" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.028mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,568.06 367.37,568.06 367.37,594.14 341.29,594.14 341.29,568.06" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,568.06 395.72,568.06 395.72,594.14 369.64,594.14 369.64,568.06" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,568.06 424.06,568.06 424.06,594.14 397.98,594.14 397.98,568.06" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,539.72 339.02,539.72 339.02,565.8 312.94,565.8 312.94,539.72" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,539.72 367.37,539.72 367.37,565.8 341.29,565.8 341.29,539.72" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,539.72 395.72,539.72 395.72,565.8 369.64,565.8 369.64,539.72" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,539.72 424.06,539.72 424.06,565.8 397.98,565.8 397.98,539.72" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,511.37 339.02,511.37 339.02,537.45 312.94,537.45 312.94,511.37" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,511.37 367.37,511.37 367.37,537.45 341.29,537.45 341.29,511.37" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,511.37 395.72,511.37 395.72,537.45 369.64,537.45 369.64,511.37" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,511.37 424.06,511.37 424.06,537.45 397.98,537.45 397.98,511.37" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,483.02 339.02,483.02 339.02,509.1 312.94,509.1 312.94,483.02" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,483.02 367.37,483.02 367.37,509.1 341.29,509.1 341.29,483.02" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,483.02 395.72,483.02 395.72,509.1 369.64,509.1 369.64,483.02" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,483.02 424.06,483.02 424.06,509.1 397.98,509.1 397.98,483.02" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,454.68 168.94,454.68 168.94,480.76 142.87,480.76 142.87,454.68" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,454.68 339.02,454.68 339.02,480.76 312.94,480.76 312.94,454.68" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,454.68 367.37,454.68 367.37,480.76 341.29,480.76 341.29,454.68" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,454.68 395.72,454.68 395.72,480.76 369.64,480.76 369.64,454.68" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,454.68 424.06,454.68 424.06,480.76 397.98,480.76 397.98,454.68" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="86.17,426.33 112.25,426.33 112.25,452.41 86.17,452.41 86.17,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="114.52,426.33 140.6,426.33 140.6,452.41 114.52,452.41 114.52,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,426.33 168.94,426.33 168.94,452.41 142.87,452.41 142.87,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,426.33 197.29,426.33 197.29,452.41 171.21,452.41 171.21,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,426.33 225.64,426.33 225.64,452.41 199.56,452.41 199.56,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,426.33 253.98,426.33 253.98,452.41 227.91,452.41 227.91,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,426.33 339.02,426.33 339.02,452.41 312.94,452.41 312.94,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,426.33 367.37,426.33 367.37,452.41 341.29,452.41 341.29,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,426.33 395.72,426.33 395.72,452.41 369.64,452.41 369.64,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,426.33 424.06,426.33 424.06,452.41 397.98,452.41 397.98,426.33" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="86.17,397.98 112.25,397.98 112.25,424.06 86.17,424.06 86.17,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="114.52,397.98 140.6,397.98 140.6,424.06 114.52,424.06 114.52,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,397.98 168.94,397.98 168.94,424.06 142.87,424.06 142.87,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,397.98 197.29,397.98 197.29,424.06 171.21,424.06 171.21,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,397.98 225.64,397.98 225.64,424.06 199.56,424.06 199.56,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,397.98 253.98,397.98 253.98,424.06 227.91,424.06 227.91,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,397.98 282.33,397.98 282.33,424.06 256.25,424.06 256.25,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,397.98 310.68,397.98 310.68,424.06 284.6,424.06 284.6,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,397.98 339.02,397.98 339.02,424.06 312.94,424.06 312.94,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,397.98 367.37,397.98 367.37,424.06 341.29,424.06 341.29,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,397.98 395.72,397.98 395.72,424.06 369.64,424.06 369.64,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,397.98 424.06,397.98 424.06,424.06 397.98,424.06 397.98,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,397.98 480.76,397.98 480.76,424.06 454.68,424.06 454.68,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,397.98 509.1,397.98 509.1,424.06 483.02,424.06 483.02,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="511.37,397.98 537.45,397.98 537.45,424.06 511.37,424.06 511.37,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="539.72,397.98 565.8,397.98 565.8,424.06 539.72,424.06 539.72,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="568.06,397.98 594.14,397.98 594.14,424.06 568.06,424.06 568.06,397.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="114.52,369.64 140.6,369.64 140.6,395.72 114.52,395.72 114.52,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,369.64 168.94,369.64 168.94,395.72 142.87,395.72 142.87,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,369.64 197.29,369.64 197.29,395.72 171.21,395.72 171.21,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,369.64 225.64,369.64 225.64,395.72 199.56,395.72 199.56,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,369.64 253.98,369.64 253.98,395.72 227.91,395.72 227.91,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,369.64 282.33,369.64 282.33,395.72 256.25,395.72 256.25,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,369.64 310.68,369.64 310.68,395.72 284.6,395.72 284.6,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,369.64 339.02,369.64 339.02,395.72 312.94,395.72 312.94,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,369.64 367.37,369.64 367.37,395.72 341.29,395.72 341.29,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,369.64 395.72,369.64 395.72,395.72 369.64,395.72 369.64,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,369.64 424.06,369.64 424.06,395.72 397.98,395.72 397.98,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,369.64 452.41,369.64 452.41,395.72 426.33,395.72 426.33,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,369.64 480.76,369.64 480.76,395.72 454.68,395.72 454.68,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,369.64 509.1,369.64 509.1,395.72 483.02,395.72 483.02,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="511.37,369.64 537.45,369.64 537.45,395.72 511.37,395.72 511.37,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="539.72,369.64 565.8,369.64 565.8,395.72 539.72,395.72 539.72,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="568.06,369.64 594.14,369.64 594.14,395.72 568.06,395.72 568.06,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="596.41,369.64 622.49,369.64 622.49,395.72 596.41,395.72 596.41,369.64" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,341.29 168.94,341.29 168.94,367.37 142.87,367.37 142.87,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,341.29 197.29,341.29 197.29,367.37 171.21,367.37 171.21,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,341.29 225.64,341.29 225.64,367.37 199.56,367.37 199.56,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,341.29 253.98,341.29 253.98,367.37 227.91,367.37 227.91,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,341.29 282.33,341.29 282.33,367.37 256.25,367.37 256.25,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,341.29 310.68,341.29 310.68,367.37 284.6,367.37 284.6,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,341.29 339.02,341.29 339.02,367.37 312.94,367.37 312.94,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,341.29 367.37,341.29 367.37,367.37 341.29,367.37 341.29,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,341.29 395.72,341.29 395.72,367.37 369.64,367.37 369.64,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,341.29 424.06,341.29 424.06,367.37 397.98,367.37 397.98,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,341.29 452.41,341.29 452.41,367.37 426.33,367.37 426.33,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,341.29 480.76,341.29 480.76,367.37 454.68,367.37 454.68,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,341.29 509.1,341.29 509.1,367.37 483.02,367.37 483.02,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="511.37,341.29 537.45,341.29 537.45,367.37 511.37,367.37 511.37,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="539.72,341.29 565.8,341.29 565.8,367.37 539.72,367.37 539.72,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="568.06,341.29 594.14,341.29 594.14,367.37 568.06,367.37 568.06,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="596.41,341.29 622.49,341.29 622.49,367.37 596.41,367.37 596.41,341.29" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,312.94 225.64,312.94 225.64,339.02 199.56,339.02 199.56,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,312.94 253.98,312.94 253.98,339.02 227.91,339.02 227.91,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,312.94 282.33,312.94 282.33,339.02 256.25,339.02 256.25,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,312.94 310.68,312.94 310.68,339.02 284.6,339.02 284.6,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,312.94 339.02,312.94 339.02,339.02 312.94,339.02 312.94,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,312.94 367.37,312.94 367.37,339.02 341.29,339.02 341.29,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,312.94 395.72,312.94 395.72,339.02 369.64,339.02 369.64,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,312.94 424.06,312.94 424.06,339.02 397.98,339.02 397.98,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,312.94 452.41,312.94 452.41,339.02 426.33,339.02 426.33,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,312.94 480.76,312.94 480.76,339.02 454.68,339.02 454.68,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,312.94 509.1,312.94 509.1,339.02 483.02,339.02 483.02,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="511.37,312.94 537.45,312.94 537.45,339.02 511.37,339.02 511.37,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="539.72,312.94 565.8,312.94 565.8,339.02 539.72,339.02 539.72,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="568.06,312.94 594.14,312.94 594.14,339.02 568.06,339.02 568.06,312.94" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,284.6 282.33,284.6 282.33,310.68 256.25,310.68 256.25,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,284.6 310.68,284.6 310.68,310.68 284.6,310.68 284.6,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,284.6 339.02,284.6 339.02,310.68 312.94,310.68 312.94,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,284.6 367.37,284.6 367.37,310.68 341.29,310.68 341.29,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,284.6 395.72,284.6 395.72,310.68 369.64,310.68 369.64,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,284.6 424.06,284.6 424.06,310.68 397.98,310.68 397.98,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,284.6 452.41,284.6 452.41,310.68 426.33,310.68 426.33,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,284.6 480.76,284.6 480.76,310.68 454.68,310.68 454.68,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,284.6 509.1,284.6 509.1,310.68 483.02,310.68 483.02,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="511.37,284.6 537.45,284.6 537.45,310.68 511.37,310.68 511.37,284.6" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,256.25 253.98,256.25 253.98,282.33 227.91,282.33 227.91,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,256.25 282.33,256.25 282.33,282.33 256.25,282.33 256.25,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,256.25 310.68,256.25 310.68,282.33 284.6,282.33 284.6,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,256.25 339.02,256.25 339.02,282.33 312.94,282.33 312.94,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,256.25 367.37,256.25 367.37,282.33 341.29,282.33 341.29,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,256.25 395.72,256.25 395.72,282.33 369.64,282.33 369.64,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,256.25 424.06,256.25 424.06,282.33 397.98,282.33 397.98,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,256.25 452.41,256.25 452.41,282.33 426.33,282.33 426.33,256.25" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,227.91 225.64,227.91 225.64,253.98 199.56,253.98 199.56,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,227.91 253.98,227.91 253.98,253.98 227.91,253.98 227.91,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,227.91 282.33,227.91 282.33,253.98 256.25,253.98 256.25,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,227.91 310.68,227.91 310.68,253.98 284.6,253.98 284.6,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,227.91 339.02,227.91 339.02,253.98 312.94,253.98 312.94,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,227.91 367.37,227.91 367.37,253.98 341.29,253.98 341.29,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,227.91 395.72,227.91 395.72,253.98 369.64,253.98 369.64,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,227.91 424.06,227.91 424.06,253.98 397.98,253.98 397.98,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,227.91 452.41,227.91 452.41,253.98 426.33,253.98 426.33,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,227.91 480.76,227.91 480.76,253.98 454.68,253.98 454.68,227.91" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,199.56 197.29,199.56 197.29,225.64 171.21,225.64 171.21,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,199.56 225.64,199.56 225.64,225.64 199.56,225.64 199.56,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,199.56 253.98,199.56 253.98,225.64 227.91,225.64 227.91,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,199.56 282.33,199.56 282.33,225.64 256.25,225.64 256.25,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,199.56 310.68,199.56 310.68,225.64 284.6,225.64 284.6,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="312.94,199.56 339.02,199.56 339.02,225.64 312.94,225.64 312.94,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="341.29,199.56 367.37,199.56 367.37,225.64 341.29,225.64 341.29,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,199.56 395.72,199.56 395.72,225.64 369.64,225.64 369.64,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,199.56 424.06,199.56 424.06,225.64 397.98,225.64 397.98,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,199.56 452.41,199.56 452.41,225.64 426.33,225.64 426.33,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,199.56 480.76,199.56 480.76,225.64 454.68,225.64 454.68,199.56" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,171.21 197.29,171.21 197.29,197.29 171.21,197.29 171.21,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,171.21 225.64,171.21 225.64,197.29 199.56,197.29 199.56,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,171.21 253.98,171.21 253.98,197.29 227.91,197.29 227.91,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,171.21 282.33,171.21 282.33,197.29 256.25,197.29 256.25,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="284.6,171.21 310.68,171.21 310.68,197.29 284.6,197.29 284.6,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,171.21 395.72,171.21 395.72,197.29 369.64,197.29 369.64,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,171.21 424.06,171.21 424.06,197.29 397.98,197.29 397.98,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,171.21 452.41,171.21 452.41,197.29 426.33,197.29 426.33,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,171.21 480.76,171.21 480.76,197.29 454.68,197.29 454.68,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,171.21 509.1,171.21 509.1,197.29 483.02,197.29 483.02,171.21" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,142.87 168.94,142.87 168.94,168.94 142.87,168.94 142.87,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,142.87 197.29,142.87 197.29,168.94 171.21,168.94 171.21,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,142.87 225.64,142.87 225.64,168.94 199.56,168.94 199.56,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,142.87 253.98,142.87 253.98,168.94 227.91,168.94 227.91,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="256.25,142.87 282.33,142.87 282.33,168.94 256.25,168.94 256.25,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="369.64,142.87 395.72,142.87 395.72,168.94 369.64,168.94 369.64,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,142.87 424.06,142.87 424.06,168.94 397.98,168.94 397.98,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,142.87 452.41,142.87 452.41,168.94 426.33,168.94 426.33,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,142.87 480.76,142.87 480.76,168.94 454.68,168.94 454.68,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,142.87 509.1,142.87 509.1,168.94 483.02,168.94 483.02,142.87" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="142.87,114.52 168.94,114.52 168.94,140.6 142.87,140.6 142.87,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="171.21,114.52 197.29,114.52 197.29,140.6 171.21,140.6 171.21,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="199.56,114.52 225.64,114.52 225.64,140.6 199.56,140.6 199.56,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="227.91,114.52 253.98,114.52 253.98,140.6 227.91,140.6 227.91,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="397.98,114.52 424.06,114.52 424.06,140.6 397.98,140.6 397.98,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,114.52 452.41,114.52 452.41,140.6 426.33,140.6 426.33,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,114.52 480.76,114.52 480.76,140.6 454.68,140.6 454.68,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,114.52 509.1,114.52 509.1,140.6 483.02,140.6 483.02,114.52" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="426.33,86.17 452.41,86.17 452.41,112.25 426.33,112.25 426.33,86.17" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="454.68,86.17 480.76,86.17 480.76,112.25 454.68,112.25 454.68,86.17" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="483.02,86.17 509.1,86.17 509.1,112.25 483.02,112.25 483.02,86.17" />
+<circle cx="340.16" cy="566.93" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="566.93" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="595.28" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="595.28" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="566.93" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="595.28" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="566.93" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="595.28" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="538.58" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="538.58" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="566.93" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="538.58" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="538.58" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="538.58" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="510.24" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="510.24" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="510.24" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="510.24" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="510.24" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="481.89" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="85.04" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="113.39" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="113.39" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="85.04" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="453.54" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="85.04" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="113.39" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="538.58" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="538.58" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="566.93" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="566.93" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="595.28" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="595.28" cy="425.2" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="113.39" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="538.58" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="566.93" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="595.28" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="623.62" cy="368.5" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="623.62" cy="396.85" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="538.58" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="566.93" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="595.28" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="623.62" cy="340.16" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="538.58" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="566.93" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="595.28" cy="311.81" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="538.58" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="283.46" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="255.12" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="226.77" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="340.16" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="311.81" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="198.43" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="170.08" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="283.46" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="368.5" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="141.73" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="141.73" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="170.08" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="198.43" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="226.77" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="255.12" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="396.85" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="113.39" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="425.2" cy="85.04" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="453.54" cy="85.04" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="481.89" cy="85.04" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="510.24" cy="85.04" r="0.45" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<line x1="341.29" y1="566.93" x2="367.37" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="568.06" x2="368.5" y2="594.14" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="595.28" x2="341.29" y2="595.28" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="594.14" x2="340.16" y2="568.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="566.93" x2="395.72" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="568.06" x2="396.85" y2="594.14" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="595.28" x2="369.64" y2="595.28" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="594.14" x2="368.5" y2="568.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="566.93" x2="424.06" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="568.06" x2="425.2" y2="594.14" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="595.28" x2="397.98" y2="595.28" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="594.14" x2="396.85" y2="568.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="538.58" x2="339.02" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="539.72" x2="340.16" y2="565.8" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="566.93" x2="312.94" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="565.8" x2="311.81" y2="539.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="538.58" x2="367.37" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="539.72" x2="368.5" y2="565.8" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="566.93" x2="341.29" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="565.8" x2="340.16" y2="539.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="538.58" x2="395.72" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="539.72" x2="396.85" y2="565.8" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="566.93" x2="369.64" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="565.8" x2="368.5" y2="539.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="538.58" x2="424.06" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="539.72" x2="425.2" y2="565.8" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="566.93" x2="397.98" y2="566.93" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="565.8" x2="396.85" y2="539.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="510.24" x2="339.02" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="511.37" x2="340.16" y2="537.45" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="538.58" x2="312.94" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="537.45" x2="311.81" y2="511.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="510.24" x2="367.37" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="511.37" x2="368.5" y2="537.45" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="538.58" x2="341.29" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="537.45" x2="340.16" y2="511.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="510.24" x2="395.72" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="511.37" x2="396.85" y2="537.45" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="538.58" x2="369.64" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="537.45" x2="368.5" y2="511.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="510.24" x2="424.06" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="511.37" x2="425.2" y2="537.45" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="538.58" x2="397.98" y2="538.58" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="537.45" x2="396.85" y2="511.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="481.89" x2="339.02" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="483.02" x2="340.16" y2="509.1" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="510.24" x2="312.94" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="509.1" x2="311.81" y2="483.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="481.89" x2="367.37" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="483.02" x2="368.5" y2="509.1" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="510.24" x2="341.29" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="509.1" x2="340.16" y2="483.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="481.89" x2="395.72" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="483.02" x2="396.85" y2="509.1" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="510.24" x2="369.64" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="509.1" x2="368.5" y2="483.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="481.89" x2="424.06" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="483.02" x2="425.2" y2="509.1" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="510.24" x2="397.98" y2="510.24" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="509.1" x2="396.85" y2="483.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="453.54" x2="168.94" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="454.68" x2="170.08" y2="480.76" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="481.89" x2="142.87" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="480.76" x2="141.73" y2="454.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="453.54" x2="339.02" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="454.68" x2="340.16" y2="480.76" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="481.89" x2="312.94" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="480.76" x2="311.81" y2="454.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="453.54" x2="367.37" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="454.68" x2="368.5" y2="480.76" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="481.89" x2="341.29" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="480.76" x2="340.16" y2="454.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="453.54" x2="395.72" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="454.68" x2="396.85" y2="480.76" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="481.89" x2="369.64" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="480.76" x2="368.5" y2="454.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="453.54" x2="424.06" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="454.68" x2="425.2" y2="480.76" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="481.89" x2="397.98" y2="481.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="480.76" x2="396.85" y2="454.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="86.17" y1="425.2" x2="112.25" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="113.39" y1="426.33" x2="113.39" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="112.25" y1="453.54" x2="86.17" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="85.04" y1="452.41" x2="85.04" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="114.52" y1="425.2" x2="140.6" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="426.33" x2="141.73" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="140.6" y1="453.54" x2="114.52" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="113.39" y1="452.41" x2="113.39" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="425.2" x2="168.94" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="426.33" x2="170.08" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="453.54" x2="142.87" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="452.41" x2="141.73" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="425.2" x2="197.29" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="426.33" x2="198.43" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="453.54" x2="171.21" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="452.41" x2="170.08" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="425.2" x2="225.64" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="426.33" x2="226.77" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="453.54" x2="199.56" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="452.41" x2="198.43" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="425.2" x2="253.98" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="426.33" x2="255.12" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="453.54" x2="227.91" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="452.41" x2="226.77" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="425.2" x2="339.02" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="426.33" x2="340.16" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="453.54" x2="312.94" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="452.41" x2="311.81" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="425.2" x2="367.37" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="426.33" x2="368.5" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="453.54" x2="341.29" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="452.41" x2="340.16" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="425.2" x2="395.72" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="426.33" x2="396.85" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="453.54" x2="369.64" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="452.41" x2="368.5" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="425.2" x2="424.06" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="426.33" x2="425.2" y2="452.41" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="453.54" x2="397.98" y2="453.54" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="452.41" x2="396.85" y2="426.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="86.17" y1="396.85" x2="112.25" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="113.39" y1="397.98" x2="113.39" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="112.25" y1="425.2" x2="86.17" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="85.04" y1="424.06" x2="85.04" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="114.52" y1="396.85" x2="140.6" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="397.98" x2="141.73" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="140.6" y1="425.2" x2="114.52" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="113.39" y1="424.06" x2="113.39" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="396.85" x2="168.94" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="397.98" x2="170.08" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="425.2" x2="142.87" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="424.06" x2="141.73" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="396.85" x2="197.29" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="397.98" x2="198.43" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="425.2" x2="171.21" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="424.06" x2="170.08" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="396.85" x2="225.64" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="397.98" x2="226.77" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="425.2" x2="199.56" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="424.06" x2="198.43" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="396.85" x2="253.98" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="397.98" x2="255.12" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="425.2" x2="227.91" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="424.06" x2="226.77" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="396.85" x2="282.33" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="397.98" x2="283.46" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="425.2" x2="256.25" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="424.06" x2="255.12" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="396.85" x2="310.68" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="397.98" x2="311.81" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="425.2" x2="284.6" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="424.06" x2="283.46" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="396.85" x2="339.02" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="397.98" x2="340.16" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="425.2" x2="312.94" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="424.06" x2="311.81" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="396.85" x2="367.37" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="397.98" x2="368.5" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="425.2" x2="341.29" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="424.06" x2="340.16" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="396.85" x2="395.72" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="397.98" x2="396.85" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="425.2" x2="369.64" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="424.06" x2="368.5" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="396.85" x2="424.06" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="397.98" x2="425.2" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="425.2" x2="397.98" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="424.06" x2="396.85" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="396.85" x2="480.76" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="397.98" x2="481.89" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="425.2" x2="454.68" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="424.06" x2="453.54" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="396.85" x2="509.1" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="397.98" x2="510.24" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="425.2" x2="483.02" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="424.06" x2="481.89" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="511.37" y1="396.85" x2="537.45" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="397.98" x2="538.58" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="537.45" y1="425.2" x2="511.37" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="424.06" x2="510.24" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="539.72" y1="396.85" x2="565.8" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="397.98" x2="566.93" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="565.8" y1="425.2" x2="539.72" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="424.06" x2="538.58" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="568.06" y1="396.85" x2="594.14" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="595.28" y1="397.98" x2="595.28" y2="424.06" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="594.14" y1="425.2" x2="568.06" y2="425.2" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="424.06" x2="566.93" y2="397.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="114.52" y1="368.5" x2="140.6" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="369.64" x2="141.73" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="140.6" y1="396.85" x2="114.52" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="113.39" y1="395.72" x2="113.39" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="368.5" x2="168.94" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="369.64" x2="170.08" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="396.85" x2="142.87" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="395.72" x2="141.73" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="368.5" x2="197.29" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="369.64" x2="198.43" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="396.85" x2="171.21" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="395.72" x2="170.08" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="368.5" x2="225.64" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="369.64" x2="226.77" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="396.85" x2="199.56" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="395.72" x2="198.43" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="368.5" x2="253.98" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="369.64" x2="255.12" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="396.85" x2="227.91" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="395.72" x2="226.77" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="368.5" x2="282.33" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="369.64" x2="283.46" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="396.85" x2="256.25" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="395.72" x2="255.12" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="368.5" x2="310.68" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="369.64" x2="311.81" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="396.85" x2="284.6" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="395.72" x2="283.46" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="368.5" x2="339.02" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="369.64" x2="340.16" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="396.85" x2="312.94" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="395.72" x2="311.81" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="368.5" x2="367.37" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="369.64" x2="368.5" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="396.85" x2="341.29" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="395.72" x2="340.16" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="368.5" x2="395.72" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="369.64" x2="396.85" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="396.85" x2="369.64" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="395.72" x2="368.5" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="368.5" x2="424.06" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="369.64" x2="425.2" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="396.85" x2="397.98" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="395.72" x2="396.85" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="368.5" x2="452.41" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="369.64" x2="453.54" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="396.85" x2="426.33" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="395.72" x2="425.2" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="368.5" x2="480.76" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="369.64" x2="481.89" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="396.85" x2="454.68" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="395.72" x2="453.54" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="368.5" x2="509.1" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="369.64" x2="510.24" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="396.85" x2="483.02" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="395.72" x2="481.89" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="511.37" y1="368.5" x2="537.45" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="369.64" x2="538.58" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="537.45" y1="396.85" x2="511.37" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="395.72" x2="510.24" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="539.72" y1="368.5" x2="565.8" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="369.64" x2="566.93" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="565.8" y1="396.85" x2="539.72" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="395.72" x2="538.58" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="568.06" y1="368.5" x2="594.14" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="595.28" y1="369.64" x2="595.28" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="594.14" y1="396.85" x2="568.06" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="395.72" x2="566.93" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="596.41" y1="368.5" x2="622.49" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="623.62" y1="369.64" x2="623.62" y2="395.72" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="622.49" y1="396.85" x2="596.41" y2="396.85" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="595.28" y1="395.72" x2="595.28" y2="369.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="340.16" x2="168.94" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="341.29" x2="170.08" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="368.5" x2="142.87" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="367.37" x2="141.73" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="340.16" x2="197.29" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="341.29" x2="198.43" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="368.5" x2="171.21" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="367.37" x2="170.08" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="340.16" x2="225.64" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="341.29" x2="226.77" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="368.5" x2="199.56" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="367.37" x2="198.43" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="340.16" x2="253.98" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="341.29" x2="255.12" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="368.5" x2="227.91" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="367.37" x2="226.77" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="340.16" x2="282.33" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="341.29" x2="283.46" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="368.5" x2="256.25" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="367.37" x2="255.12" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="340.16" x2="310.68" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="341.29" x2="311.81" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="368.5" x2="284.6" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="367.37" x2="283.46" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="340.16" x2="339.02" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="341.29" x2="340.16" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="368.5" x2="312.94" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="367.37" x2="311.81" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="340.16" x2="367.37" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="341.29" x2="368.5" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="368.5" x2="341.29" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="367.37" x2="340.16" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="340.16" x2="395.72" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="341.29" x2="396.85" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="368.5" x2="369.64" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="367.37" x2="368.5" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="340.16" x2="424.06" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="341.29" x2="425.2" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="368.5" x2="397.98" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="367.37" x2="396.85" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="340.16" x2="452.41" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="341.29" x2="453.54" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="368.5" x2="426.33" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="367.37" x2="425.2" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="340.16" x2="480.76" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="341.29" x2="481.89" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="368.5" x2="454.68" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="367.37" x2="453.54" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="340.16" x2="509.1" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="341.29" x2="510.24" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="368.5" x2="483.02" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="367.37" x2="481.89" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="511.37" y1="340.16" x2="537.45" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="341.29" x2="538.58" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="537.45" y1="368.5" x2="511.37" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="367.37" x2="510.24" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="539.72" y1="340.16" x2="565.8" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="341.29" x2="566.93" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="565.8" y1="368.5" x2="539.72" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="367.37" x2="538.58" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="568.06" y1="340.16" x2="594.14" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="595.28" y1="341.29" x2="595.28" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="594.14" y1="368.5" x2="568.06" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="367.37" x2="566.93" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="596.41" y1="340.16" x2="622.49" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="623.62" y1="341.29" x2="623.62" y2="367.37" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="622.49" y1="368.5" x2="596.41" y2="368.5" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="595.28" y1="367.37" x2="595.28" y2="341.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="311.81" x2="225.64" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="312.94" x2="226.77" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="340.16" x2="199.56" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="339.02" x2="198.43" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="311.81" x2="253.98" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="312.94" x2="255.12" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="340.16" x2="227.91" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="339.02" x2="226.77" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="311.81" x2="282.33" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="312.94" x2="283.46" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="340.16" x2="256.25" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="339.02" x2="255.12" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="311.81" x2="310.68" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="312.94" x2="311.81" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="340.16" x2="284.6" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="339.02" x2="283.46" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="311.81" x2="339.02" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="312.94" x2="340.16" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="340.16" x2="312.94" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="339.02" x2="311.81" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="311.81" x2="367.37" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="312.94" x2="368.5" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="340.16" x2="341.29" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="339.02" x2="340.16" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="311.81" x2="395.72" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="312.94" x2="396.85" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="340.16" x2="369.64" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="339.02" x2="368.5" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="311.81" x2="424.06" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="312.94" x2="425.2" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="340.16" x2="397.98" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="339.02" x2="396.85" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="311.81" x2="452.41" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="312.94" x2="453.54" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="340.16" x2="426.33" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="339.02" x2="425.2" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="311.81" x2="480.76" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="312.94" x2="481.89" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="340.16" x2="454.68" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="339.02" x2="453.54" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="311.81" x2="509.1" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="312.94" x2="510.24" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="340.16" x2="483.02" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="339.02" x2="481.89" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="511.37" y1="311.81" x2="537.45" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="312.94" x2="538.58" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="537.45" y1="340.16" x2="511.37" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="339.02" x2="510.24" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="539.72" y1="311.81" x2="565.8" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="312.94" x2="566.93" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="565.8" y1="340.16" x2="539.72" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="339.02" x2="538.58" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="568.06" y1="311.81" x2="594.14" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="595.28" y1="312.94" x2="595.28" y2="339.02" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="594.14" y1="340.16" x2="568.06" y2="340.16" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="566.93" y1="339.02" x2="566.93" y2="312.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="283.46" x2="282.33" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="284.6" x2="283.46" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="311.81" x2="256.25" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="310.68" x2="255.12" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="283.46" x2="310.68" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="284.6" x2="311.81" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="311.81" x2="284.6" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="310.68" x2="283.46" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="283.46" x2="339.02" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="284.6" x2="340.16" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="311.81" x2="312.94" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="310.68" x2="311.81" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="283.46" x2="367.37" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="284.6" x2="368.5" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="311.81" x2="341.29" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="310.68" x2="340.16" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="283.46" x2="395.72" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="284.6" x2="396.85" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="311.81" x2="369.64" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="310.68" x2="368.5" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="283.46" x2="424.06" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="284.6" x2="425.2" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="311.81" x2="397.98" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="310.68" x2="396.85" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="283.46" x2="452.41" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="284.6" x2="453.54" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="311.81" x2="426.33" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="310.68" x2="425.2" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="283.46" x2="480.76" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="284.6" x2="481.89" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="311.81" x2="454.68" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="310.68" x2="453.54" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="283.46" x2="509.1" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="284.6" x2="510.24" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="311.81" x2="483.02" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="310.68" x2="481.89" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="511.37" y1="283.46" x2="537.45" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="538.58" y1="284.6" x2="538.58" y2="310.68" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="537.45" y1="311.81" x2="511.37" y2="311.81" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="310.68" x2="510.24" y2="284.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="255.12" x2="253.98" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="256.25" x2="255.12" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="283.46" x2="227.91" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="282.33" x2="226.77" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="255.12" x2="282.33" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="256.25" x2="283.46" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="283.46" x2="256.25" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="282.33" x2="255.12" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="255.12" x2="310.68" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="256.25" x2="311.81" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="283.46" x2="284.6" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="282.33" x2="283.46" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="255.12" x2="339.02" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="256.25" x2="340.16" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="283.46" x2="312.94" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="282.33" x2="311.81" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="255.12" x2="367.37" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="256.25" x2="368.5" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="283.46" x2="341.29" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="282.33" x2="340.16" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="255.12" x2="395.72" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="256.25" x2="396.85" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="283.46" x2="369.64" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="282.33" x2="368.5" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="255.12" x2="424.06" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="256.25" x2="425.2" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="283.46" x2="397.98" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="282.33" x2="396.85" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="255.12" x2="452.41" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="256.25" x2="453.54" y2="282.33" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="283.46" x2="426.33" y2="283.46" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="282.33" x2="425.2" y2="256.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="226.77" x2="225.64" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="227.91" x2="226.77" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="255.12" x2="199.56" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="253.98" x2="198.43" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="226.77" x2="253.98" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="227.91" x2="255.12" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="255.12" x2="227.91" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="253.98" x2="226.77" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="226.77" x2="282.33" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="227.91" x2="283.46" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="255.12" x2="256.25" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="253.98" x2="255.12" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="226.77" x2="310.68" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="227.91" x2="311.81" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="255.12" x2="284.6" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="253.98" x2="283.46" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="226.77" x2="339.02" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="227.91" x2="340.16" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="255.12" x2="312.94" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="253.98" x2="311.81" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="226.77" x2="367.37" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="227.91" x2="368.5" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="255.12" x2="341.29" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="253.98" x2="340.16" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="226.77" x2="395.72" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="227.91" x2="396.85" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="255.12" x2="369.64" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="253.98" x2="368.5" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="226.77" x2="424.06" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="227.91" x2="425.2" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="255.12" x2="397.98" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="253.98" x2="396.85" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="226.77" x2="452.41" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="227.91" x2="453.54" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="255.12" x2="426.33" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="253.98" x2="425.2" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="226.77" x2="480.76" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="227.91" x2="481.89" y2="253.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="255.12" x2="454.68" y2="255.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="253.98" x2="453.54" y2="227.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="198.43" x2="197.29" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="199.56" x2="198.43" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="226.77" x2="171.21" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="225.64" x2="170.08" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="198.43" x2="225.64" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="199.56" x2="226.77" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="226.77" x2="199.56" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="225.64" x2="198.43" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="198.43" x2="253.98" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="199.56" x2="255.12" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="226.77" x2="227.91" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="225.64" x2="226.77" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="198.43" x2="282.33" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="199.56" x2="283.46" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="226.77" x2="256.25" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="225.64" x2="255.12" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="198.43" x2="310.68" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="199.56" x2="311.81" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="226.77" x2="284.6" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="225.64" x2="283.46" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="312.94" y1="198.43" x2="339.02" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="199.56" x2="340.16" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="339.02" y1="226.77" x2="312.94" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="225.64" x2="311.81" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="341.29" y1="198.43" x2="367.37" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="199.56" x2="368.5" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="367.37" y1="226.77" x2="341.29" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="340.16" y1="225.64" x2="340.16" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="198.43" x2="395.72" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="199.56" x2="396.85" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="226.77" x2="369.64" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="225.64" x2="368.5" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="198.43" x2="424.06" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="199.56" x2="425.2" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="226.77" x2="397.98" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="225.64" x2="396.85" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="198.43" x2="452.41" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="199.56" x2="453.54" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="226.77" x2="426.33" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="225.64" x2="425.2" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="198.43" x2="480.76" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="199.56" x2="481.89" y2="225.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="226.77" x2="454.68" y2="226.77" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="225.64" x2="453.54" y2="199.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="170.08" x2="197.29" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="171.21" x2="198.43" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="198.43" x2="171.21" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="197.29" x2="170.08" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="170.08" x2="225.64" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="171.21" x2="226.77" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="198.43" x2="199.56" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="197.29" x2="198.43" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="170.08" x2="253.98" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="171.21" x2="255.12" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="198.43" x2="227.91" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="197.29" x2="226.77" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="170.08" x2="282.33" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="171.21" x2="283.46" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="198.43" x2="256.25" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="197.29" x2="255.12" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="284.6" y1="170.08" x2="310.68" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="311.81" y1="171.21" x2="311.81" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="310.68" y1="198.43" x2="284.6" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="197.29" x2="283.46" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="170.08" x2="395.72" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="171.21" x2="396.85" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="198.43" x2="369.64" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="197.29" x2="368.5" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="170.08" x2="424.06" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="171.21" x2="425.2" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="198.43" x2="397.98" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="197.29" x2="396.85" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="170.08" x2="452.41" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="171.21" x2="453.54" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="198.43" x2="426.33" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="197.29" x2="425.2" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="170.08" x2="480.76" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="171.21" x2="481.89" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="198.43" x2="454.68" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="197.29" x2="453.54" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="170.08" x2="509.1" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="171.21" x2="510.24" y2="197.29" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="198.43" x2="483.02" y2="198.43" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="197.29" x2="481.89" y2="171.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="141.73" x2="168.94" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="142.87" x2="170.08" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="170.08" x2="142.87" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="168.94" x2="141.73" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="141.73" x2="197.29" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="142.87" x2="198.43" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="170.08" x2="171.21" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="168.94" x2="170.08" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="141.73" x2="225.64" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="142.87" x2="226.77" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="170.08" x2="199.56" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="168.94" x2="198.43" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="141.73" x2="253.98" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="142.87" x2="255.12" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="170.08" x2="227.91" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="168.94" x2="226.77" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="256.25" y1="141.73" x2="282.33" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="142.87" x2="283.46" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="282.33" y1="170.08" x2="256.25" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="168.94" x2="255.12" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="369.64" y1="141.73" x2="395.72" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="142.87" x2="396.85" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="395.72" y1="170.08" x2="369.64" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="368.5" y1="168.94" x2="368.5" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="141.73" x2="424.06" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="142.87" x2="425.2" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="170.08" x2="397.98" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="168.94" x2="396.85" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="141.73" x2="452.41" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="142.87" x2="453.54" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="170.08" x2="426.33" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="168.94" x2="425.2" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="141.73" x2="480.76" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="142.87" x2="481.89" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="170.08" x2="454.68" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="168.94" x2="453.54" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="141.73" x2="509.1" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="142.87" x2="510.24" y2="168.94" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="170.08" x2="483.02" y2="170.08" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="168.94" x2="481.89" y2="142.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="142.87" y1="113.39" x2="168.94" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="114.52" x2="170.08" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="168.94" y1="141.73" x2="142.87" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="141.73" y1="140.6" x2="141.73" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="171.21" y1="113.39" x2="197.29" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="114.52" x2="198.43" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="197.29" y1="141.73" x2="171.21" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="140.6" x2="170.08" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="199.56" y1="113.39" x2="225.64" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="114.52" x2="226.77" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="225.64" y1="141.73" x2="199.56" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="198.43" y1="140.6" x2="198.43" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="227.91" y1="113.39" x2="253.98" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="255.12" y1="114.52" x2="255.12" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="253.98" y1="141.73" x2="227.91" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="226.77" y1="140.6" x2="226.77" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="397.98" y1="113.39" x2="424.06" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="114.52" x2="425.2" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="424.06" y1="141.73" x2="397.98" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="396.85" y1="140.6" x2="396.85" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="113.39" x2="452.41" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="114.52" x2="453.54" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="141.73" x2="426.33" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="140.6" x2="425.2" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="113.39" x2="480.76" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="114.52" x2="481.89" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="141.73" x2="454.68" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="140.6" x2="453.54" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="113.39" x2="509.1" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="114.52" x2="510.24" y2="140.6" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="141.73" x2="483.02" y2="141.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="140.6" x2="481.89" y2="114.52" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="426.33" y1="85.04" x2="452.41" y2="85.04" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="86.17" x2="453.54" y2="112.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="452.41" y1="113.39" x2="426.33" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="112.25" x2="425.2" y2="86.17" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="454.68" y1="85.04" x2="480.76" y2="85.04" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="86.17" x2="481.89" y2="112.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="480.76" y1="113.39" x2="454.68" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="453.54" y1="112.25" x2="453.54" y2="86.17" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="483.02" y1="85.04" x2="509.1" y2="85.04" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="510.24" y1="86.17" x2="510.24" y2="112.25" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="509.1" y1="113.39" x2="483.02" y2="113.39" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="481.89" y1="112.25" x2="481.89" y2="86.17" fill="none" stroke="rgb(255,0,0)" stroke-width="0.141mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+</svg>
