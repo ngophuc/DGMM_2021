@@ -4684,6 +4684,8 @@
           points="590.79,307.32 616.77,307.32 616.77,333.31 590.79,333.31 590.79,307.32" />
 <polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
           points="590.79,278.98 616.77,278.98 616.77,304.96 590.79,304.96 590.79,278.98" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="278.98,505.75 304.96,505.75 304.96,531.73 278.98,531.73 278.98,505.75" />
 <circle cx="277.8" cy="561.26" r="0.47" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <circle cx="306.14" cy="561.26" r="0.47" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <circle cx="306.14" cy="589.61" r="0.47" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
@@ -5705,4 +5707,8 @@
 <line x1="617.95" y1="278.98" x2="617.95" y2="304.96" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 <line x1="616.77" y1="306.14" x2="590.79" y2="306.14" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 <line x1="589.61" y1="304.96" x2="589.61" y2="278.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="278.98" y1="504.57" x2="304.96" y2="504.57" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="306.14" y1="505.75" x2="306.14" y2="531.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="304.96" y1="532.91" x2="278.98" y2="532.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="277.8" y1="531.73" x2="277.8" y2="505.75" fill="none" stroke="rgb(255,0,0)" stroke-width="0.147mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 </svg>

@@ -4923,6 +4923,10 @@
           points="715.42,375.26 741.59,375.26 741.59,401.43 715.42,401.43 715.42,375.26" />
 <polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
           points="715.42,318.57 741.59,318.57 741.59,344.74 715.42,344.74 715.42,318.57" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="233.53,488.65 259.7,488.65 259.7,514.82 233.53,514.82 233.53,488.65" />
+<polygon fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"  fill-opacity="0.392157"  stroke-opacity="0.392157"
+          points="545.34,658.73 571.51,658.73 571.51,684.89 545.34,684.89 545.34,658.73" />
 <circle cx="204.09" cy="430.87" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <circle cx="232.44" cy="430.87" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <circle cx="232.44" cy="459.21" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
@@ -5198,6 +5202,8 @@
 <circle cx="742.68" cy="402.52" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <circle cx="742.68" cy="430.87" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <circle cx="742.68" cy="317.48" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="232.44" cy="515.91" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
+<circle cx="544.25" cy="685.98" r="0.44" fill="rgb(255,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;" />
 <line x1="205.18" y1="430.87" x2="231.35" y2="430.87" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 <line x1="232.44" y1="431.96" x2="232.44" y2="458.12" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 <line x1="231.35" y1="459.21" x2="205.18" y2="459.21" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
@@ -6090,4 +6096,12 @@
 <line x1="742.68" y1="318.57" x2="742.68" y2="344.74" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 <line x1="741.59" y1="345.83" x2="715.42" y2="345.83" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 <line x1="714.33" y1="344.74" x2="714.33" y2="318.57" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="233.53" y1="487.56" x2="259.7" y2="487.56" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="260.79" y1="488.65" x2="260.79" y2="514.82" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="259.7" y1="515.91" x2="233.53" y2="515.91" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="232.44" y1="514.82" x2="232.44" y2="488.65" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="545.34" y1="657.64" x2="571.51" y2="657.64" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="572.6" y1="658.73" x2="572.6" y2="684.89" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="571.51" y1="685.98" x2="545.34" y2="685.98" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="544.25" y1="684.89" x2="544.25" y2="658.73" fill="none" stroke="rgb(255,0,0)" stroke-width="0.136mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
 </svg>
