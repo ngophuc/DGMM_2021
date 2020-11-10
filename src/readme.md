@@ -1,4 +1,4 @@
-# Example of generating images with/without a rigid motion
+# Examples of generating images with/without a rigid motion
 
 ## Disks
 - disk of center (0,0) and radius 5 with rotation (3,4,5) and translation (1/5,0) (**disk5.pgm** and **disk5_moved.pgm**):
