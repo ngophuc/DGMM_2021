@@ -8,6 +8,9 @@
   - result by Eq. (14): **_Y1.svg**  
   - result by Eq. (15): **_Y2.svg**  
 ## Ellipses
-- ellipse of center (0,0), width 10 and height 6 with rotation (3,4,5) and translation (1/5,0) (**ellipse10_6.pgm** and **ellipse10_6_rot3-4-5**)
+- ellipse of center (0,0), width 10 and height 6 with rotation (3,4,5) and translation (1/5,0) (**ellipse10_6** and **ellipse10_6_rot3-4-5**)
+  - result by Eq. (14): **_Y1.svg**  
+  - result by Eq. (15): **_Y2.svg**  
+- ellipse of center (0,0), width 10 and height 6 with rotation (24,7,25) and translation (1/5,0) (**ellipse10_6** and **ellipse10_6_rot24-7-25**) :
   - result by Eq. (14): **_Y1.svg**  
   - result by Eq. (15): **_Y2.svg**  
