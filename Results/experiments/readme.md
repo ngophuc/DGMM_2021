@@ -10,6 +10,6 @@ smile.pgm => **RigidTransform t(22,7,25,1,5,0,1);**
 
 dgmm.pgm => **RigidTransform t(3,4,5,1,5,1,4);**
 
-ellipse10-6.pgm => **RigidTransform t(3,4,5,1,5,1,4);**
+ellipse10-6.pgm => **RigidTransform t(3,4,5,1,5,0,1);**
 
-disk11_5.pgm => **RigidTransform t(3,4,5,1,5,1,4);**
+disk11_5.pgm => **RigidTransform t(3,4,5,1,5,0,1);**
