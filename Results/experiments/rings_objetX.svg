@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="320mm" height="320mm" 
+     viewBox="0 0 907.087 907.087" 
+     xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<desc>output.svg, created with the Board library (Copyleft) 2007 Sebastien Fourey</desc>
+<line x1="0" y1="907.09" x2="0" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="28.35" y1="907.09" x2="28.35" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="56.69" y1="907.09" x2="56.69" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="85.04" y1="907.09" x2="85.04" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="113.39" y1="907.09" x2="113.39" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="141.73" y1="907.09" x2="141.73" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="170.08" y1="907.09" x2="170.08" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="198.43" y1="907.09" x2="198.43" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="226.77" y1="907.09" x2="226.77" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="255.12" y1="907.09" x2="255.12" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="283.46" y1="907.09" x2="283.46" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="311.81" y1="907.09" x2="311.81" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="340.16" y1="907.09" x2="340.16" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="368.5" y1="907.09" x2="368.5" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="396.85" y1="907.09" x2="396.85" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="425.2" y1="907.09" x2="425.2" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="453.54" y1="907.09" x2="453.54" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="481.89" y1="907.09" x2="481.89" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="510.24" y1="907.09" x2="510.24" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="538.58" y1="907.09" x2="538.58" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="566.93" y1="907.09" x2="566.93" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="595.28" y1="907.09" x2="595.28" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="623.62" y1="907.09" x2="623.62" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="651.97" y1="907.09" x2="651.97" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="680.32" y1="907.09" x2="680.32" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="708.66" y1="907.09" x2="708.66" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="737.01" y1="907.09" x2="737.01" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="765.35" y1="907.09" x2="765.35" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="793.7" y1="907.09" x2="793.7" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="822.05" y1="907.09" x2="822.05" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="850.39" y1="907.09" x2="850.39" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="878.74" y1="907.09" x2="878.74" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="907.09" y1="907.09" x2="907.09" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="907.09" x2="907.09" y2="907.09" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="878.74" x2="907.09" y2="878.74" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="850.39" x2="907.09" y2="850.39" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="822.05" x2="907.09" y2="822.05" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="793.7" x2="907.09" y2="793.7" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="765.35" x2="907.09" y2="765.35" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="737.01" x2="907.09" y2="737.01" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="708.66" x2="907.09" y2="708.66" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="680.32" x2="907.09" y2="680.32" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="651.97" x2="907.09" y2="651.97" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="623.62" x2="907.09" y2="623.62" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="595.28" x2="907.09" y2="595.28" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="566.93" x2="907.09" y2="566.93" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="538.58" x2="907.09" y2="538.58" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="510.24" x2="907.09" y2="510.24" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="481.89" x2="907.09" y2="481.89" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="453.54" x2="907.09" y2="453.54" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="425.2" x2="907.09" y2="425.2" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="396.85" x2="907.09" y2="396.85" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="368.5" x2="907.09" y2="368.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="340.16" x2="907.09" y2="340.16" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="311.81" x2="907.09" y2="311.81" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="283.46" x2="907.09" y2="283.46" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="255.12" x2="907.09" y2="255.12" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="226.77" x2="907.09" y2="226.77" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="198.43" x2="907.09" y2="198.43" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="170.08" x2="907.09" y2="170.08" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="141.73" x2="907.09" y2="141.73" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="113.39" x2="907.09" y2="113.39" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="85.04" x2="907.09" y2="85.04" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="56.69" x2="907.09" y2="56.69" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="28.35" x2="907.09" y2="28.35" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<line x1="0" y1="0" x2="907.09" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.021mm" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-dashoffset:0" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="368.5,793.7 396.85,793.7 396.85,822.05 368.5,822.05 368.5,793.7" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="396.85,793.7 425.2,793.7 425.2,822.05 396.85,822.05 396.85,793.7" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,793.7 453.54,793.7 453.54,822.05 425.2,822.05 425.2,793.7" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,793.7 481.89,793.7 481.89,822.05 453.54,822.05 453.54,793.7" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="481.89,793.7 510.24,793.7 510.24,822.05 481.89,822.05 481.89,793.7" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="510.24,793.7 538.58,793.7 538.58,822.05 510.24,822.05 510.24,793.7" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="283.46,765.35 311.81,765.35 311.81,793.7 283.46,793.7 283.46,765.35" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,765.35 340.16,765.35 340.16,793.7 311.81,793.7 311.81,765.35" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="340.16,765.35 368.5,765.35 368.5,793.7 340.16,793.7 340.16,765.35" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="538.58,765.35 566.93,765.35 566.93,793.7 538.58,793.7 538.58,765.35" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,765.35 595.28,765.35 595.28,793.7 566.93,793.7 566.93,765.35" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="595.28,765.35 623.62,765.35 623.62,793.7 595.28,793.7 595.28,765.35" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="255.12,737.01 283.46,737.01 283.46,765.35 255.12,765.35 255.12,737.01" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="623.62,737.01 651.97,737.01 651.97,765.35 623.62,765.35 623.62,737.01" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,708.66 226.77,708.66 226.77,737.01 198.43,737.01 198.43,708.66" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="226.77,708.66 255.12,708.66 255.12,737.01 226.77,737.01 226.77,708.66" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="651.97,708.66 680.32,708.66 680.32,737.01 651.97,737.01 651.97,708.66" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,708.66 708.66,708.66 708.66,737.01 680.32,737.01 680.32,708.66" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="170.08,680.32 198.43,680.32 198.43,708.66 170.08,708.66 170.08,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="368.5,680.32 396.85,680.32 396.85,708.66 368.5,708.66 368.5,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="396.85,680.32 425.2,680.32 425.2,708.66 396.85,708.66 396.85,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,680.32 453.54,680.32 453.54,708.66 425.2,708.66 425.2,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,680.32 481.89,680.32 481.89,708.66 453.54,708.66 453.54,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="481.89,680.32 510.24,680.32 510.24,708.66 481.89,708.66 481.89,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="510.24,680.32 538.58,680.32 538.58,708.66 510.24,708.66 510.24,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="708.66,680.32 737.01,680.32 737.01,708.66 708.66,708.66 708.66,680.32" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="170.08,651.97 198.43,651.97 198.43,680.32 170.08,680.32 170.08,651.97" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,651.97 340.16,651.97 340.16,680.32 311.81,680.32 311.81,651.97" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="340.16,651.97 368.5,651.97 368.5,680.32 340.16,680.32 340.16,651.97" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="538.58,651.97 566.93,651.97 566.93,680.32 538.58,680.32 538.58,651.97" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,651.97 595.28,651.97 595.28,680.32 566.93,680.32 566.93,651.97" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="708.66,651.97 737.01,651.97 737.01,680.32 708.66,680.32 708.66,651.97" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="141.73,623.62 170.08,623.62 170.08,651.97 141.73,651.97 141.73,623.62" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="283.46,623.62 311.81,623.62 311.81,651.97 283.46,651.97 283.46,623.62" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="595.28,623.62 623.62,623.62 623.62,651.97 595.28,651.97 595.28,623.62" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="737.01,623.62 765.35,623.62 765.35,651.97 737.01,651.97 737.01,623.62" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="113.39,595.28 141.73,595.28 141.73,623.62 113.39,623.62 113.39,595.28" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="255.12,595.28 283.46,595.28 283.46,623.62 255.12,623.62 255.12,595.28" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="623.62,595.28 651.97,595.28 651.97,623.62 623.62,623.62 623.62,595.28" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="765.35,595.28 793.7,595.28 793.7,623.62 765.35,623.62 765.35,595.28" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="113.39,566.93 141.73,566.93 141.73,595.28 113.39,595.28 113.39,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="226.77,566.93 255.12,566.93 255.12,595.28 226.77,595.28 226.77,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="396.85,566.93 425.2,566.93 425.2,595.28 396.85,595.28 396.85,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,566.93 453.54,566.93 453.54,595.28 425.2,595.28 425.2,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,566.93 481.89,566.93 481.89,595.28 453.54,595.28 453.54,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="481.89,566.93 510.24,566.93 510.24,595.28 481.89,595.28 481.89,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="651.97,566.93 680.32,566.93 680.32,595.28 651.97,595.28 651.97,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="765.35,566.93 793.7,566.93 793.7,595.28 765.35,595.28 765.35,566.93" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="113.39,538.58 141.73,538.58 141.73,566.93 113.39,566.93 113.39,538.58" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="226.77,538.58 255.12,538.58 255.12,566.93 226.77,566.93 226.77,538.58" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="368.5,538.58 396.85,538.58 396.85,566.93 368.5,566.93 368.5,538.58" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="510.24,538.58 538.58,538.58 538.58,566.93 510.24,566.93 510.24,538.58" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="651.97,538.58 680.32,538.58 680.32,566.93 651.97,566.93 651.97,538.58" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="765.35,538.58 793.7,538.58 793.7,566.93 765.35,566.93 765.35,538.58" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="85.04,510.24 113.39,510.24 113.39,538.58 85.04,538.58 85.04,510.24" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,510.24 226.77,510.24 226.77,538.58 198.43,538.58 198.43,510.24" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="340.16,510.24 368.5,510.24 368.5,538.58 340.16,538.58 340.16,510.24" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="538.58,510.24 566.93,510.24 566.93,538.58 538.58,538.58 538.58,510.24" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,510.24 708.66,510.24 708.66,538.58 680.32,538.58 680.32,510.24" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="793.7,510.24 822.05,510.24 822.05,538.58 793.7,538.58 793.7,510.24" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="85.04,481.89 113.39,481.89 113.39,510.24 85.04,510.24 85.04,481.89" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,481.89 226.77,481.89 226.77,510.24 198.43,510.24 198.43,481.89" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,481.89 340.16,481.89 340.16,510.24 311.81,510.24 311.81,481.89" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,481.89 595.28,481.89 595.28,510.24 566.93,510.24 566.93,481.89" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,481.89 708.66,481.89 708.66,510.24 680.32,510.24 680.32,481.89" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="793.7,481.89 822.05,481.89 822.05,510.24 793.7,510.24 793.7,481.89" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="85.04,453.54 113.39,453.54 113.39,481.89 85.04,481.89 85.04,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,453.54 226.77,453.54 226.77,481.89 198.43,481.89 198.43,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,453.54 340.16,453.54 340.16,481.89 311.81,481.89 311.81,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,453.54 453.54,453.54 453.54,481.89 425.2,481.89 425.2,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,453.54 481.89,453.54 481.89,481.89 453.54,481.89 453.54,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,453.54 595.28,453.54 595.28,481.89 566.93,481.89 566.93,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,453.54 708.66,453.54 708.66,481.89 680.32,481.89 680.32,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="793.7,453.54 822.05,453.54 822.05,481.89 793.7,481.89 793.7,453.54" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="85.04,425.2 113.39,425.2 113.39,453.54 85.04,453.54 85.04,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,425.2 226.77,425.2 226.77,453.54 198.43,453.54 198.43,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,425.2 340.16,425.2 340.16,453.54 311.81,453.54 311.81,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,425.2 453.54,425.2 453.54,453.54 425.2,453.54 425.2,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,425.2 481.89,425.2 481.89,453.54 453.54,453.54 453.54,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,425.2 595.28,425.2 595.28,453.54 566.93,453.54 566.93,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,425.2 708.66,425.2 708.66,453.54 680.32,453.54 680.32,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="793.7,425.2 822.05,425.2 822.05,453.54 793.7,453.54 793.7,425.2" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="85.04,396.85 113.39,396.85 113.39,425.2 85.04,425.2 85.04,396.85" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,396.85 226.77,396.85 226.77,425.2 198.43,425.2 198.43,396.85" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,396.85 340.16,396.85 340.16,425.2 311.81,425.2 311.81,396.85" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,396.85 595.28,396.85 595.28,425.2 566.93,425.2 566.93,396.85" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,396.85 708.66,396.85 708.66,425.2 680.32,425.2 680.32,396.85" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="793.7,396.85 822.05,396.85 822.05,425.2 793.7,425.2 793.7,396.85" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="85.04,368.5 113.39,368.5 113.39,396.85 85.04,396.85 85.04,368.5" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,368.5 226.77,368.5 226.77,396.85 198.43,396.85 198.43,368.5" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="340.16,368.5 368.5,368.5 368.5,396.85 340.16,396.85 340.16,368.5" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="538.58,368.5 566.93,368.5 566.93,396.85 538.58,396.85 538.58,368.5" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,368.5 708.66,368.5 708.66,396.85 680.32,396.85 680.32,368.5" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="793.7,368.5 822.05,368.5 822.05,396.85 793.7,396.85 793.7,368.5" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="113.39,340.16 141.73,340.16 141.73,368.5 113.39,368.5 113.39,340.16" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="226.77,340.16 255.12,340.16 255.12,368.5 226.77,368.5 226.77,340.16" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="368.5,340.16 396.85,340.16 396.85,368.5 368.5,368.5 368.5,340.16" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="510.24,340.16 538.58,340.16 538.58,368.5 510.24,368.5 510.24,340.16" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="651.97,340.16 680.32,340.16 680.32,368.5 651.97,368.5 651.97,340.16" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="765.35,340.16 793.7,340.16 793.7,368.5 765.35,368.5 765.35,340.16" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="113.39,311.81 141.73,311.81 141.73,340.16 113.39,340.16 113.39,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="226.77,311.81 255.12,311.81 255.12,340.16 226.77,340.16 226.77,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="396.85,311.81 425.2,311.81 425.2,340.16 396.85,340.16 396.85,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,311.81 453.54,311.81 453.54,340.16 425.2,340.16 425.2,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,311.81 481.89,311.81 481.89,340.16 453.54,340.16 453.54,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="481.89,311.81 510.24,311.81 510.24,340.16 481.89,340.16 481.89,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="651.97,311.81 680.32,311.81 680.32,340.16 651.97,340.16 651.97,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="765.35,311.81 793.7,311.81 793.7,340.16 765.35,340.16 765.35,311.81" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="113.39,283.46 141.73,283.46 141.73,311.81 113.39,311.81 113.39,283.46" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="255.12,283.46 283.46,283.46 283.46,311.81 255.12,311.81 255.12,283.46" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="623.62,283.46 651.97,283.46 651.97,311.81 623.62,311.81 623.62,283.46" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="765.35,283.46 793.7,283.46 793.7,311.81 765.35,311.81 765.35,283.46" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="141.73,255.12 170.08,255.12 170.08,283.46 141.73,283.46 141.73,255.12" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="283.46,255.12 311.81,255.12 311.81,283.46 283.46,283.46 283.46,255.12" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="595.28,255.12 623.62,255.12 623.62,283.46 595.28,283.46 595.28,255.12" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="737.01,255.12 765.35,255.12 765.35,283.46 737.01,283.46 737.01,255.12" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="170.08,226.77 198.43,226.77 198.43,255.12 170.08,255.12 170.08,226.77" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,226.77 340.16,226.77 340.16,255.12 311.81,255.12 311.81,226.77" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="340.16,226.77 368.5,226.77 368.5,255.12 340.16,255.12 340.16,226.77" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="538.58,226.77 566.93,226.77 566.93,255.12 538.58,255.12 538.58,226.77" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,226.77 595.28,226.77 595.28,255.12 566.93,255.12 566.93,226.77" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="708.66,226.77 737.01,226.77 737.01,255.12 708.66,255.12 708.66,226.77" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="170.08,198.43 198.43,198.43 198.43,226.77 170.08,226.77 170.08,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="368.5,198.43 396.85,198.43 396.85,226.77 368.5,226.77 368.5,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="396.85,198.43 425.2,198.43 425.2,226.77 396.85,226.77 396.85,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,198.43 453.54,198.43 453.54,226.77 425.2,226.77 425.2,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,198.43 481.89,198.43 481.89,226.77 453.54,226.77 453.54,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="481.89,198.43 510.24,198.43 510.24,226.77 481.89,226.77 481.89,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="510.24,198.43 538.58,198.43 538.58,226.77 510.24,226.77 510.24,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="708.66,198.43 737.01,198.43 737.01,226.77 708.66,226.77 708.66,198.43" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="198.43,170.08 226.77,170.08 226.77,198.43 198.43,198.43 198.43,170.08" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="226.77,170.08 255.12,170.08 255.12,198.43 226.77,198.43 226.77,170.08" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="651.97,170.08 680.32,170.08 680.32,198.43 651.97,198.43 651.97,170.08" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="680.32,170.08 708.66,170.08 708.66,198.43 680.32,198.43 680.32,170.08" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="255.12,141.73 283.46,141.73 283.46,170.08 255.12,170.08 255.12,141.73" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="623.62,141.73 651.97,141.73 651.97,170.08 623.62,170.08 623.62,141.73" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="283.46,113.39 311.81,113.39 311.81,141.73 283.46,141.73 283.46,113.39" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="311.81,113.39 340.16,113.39 340.16,141.73 311.81,141.73 311.81,113.39" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="340.16,113.39 368.5,113.39 368.5,141.73 340.16,141.73 340.16,113.39" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="538.58,113.39 566.93,113.39 566.93,141.73 538.58,141.73 538.58,113.39" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="566.93,113.39 595.28,113.39 595.28,141.73 566.93,141.73 566.93,113.39" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="595.28,113.39 623.62,113.39 623.62,141.73 595.28,141.73 595.28,113.39" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="368.5,85.04 396.85,85.04 396.85,113.39 368.5,113.39 368.5,85.04" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="396.85,85.04 425.2,85.04 425.2,113.39 396.85,113.39 396.85,85.04" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="425.2,85.04 453.54,85.04 453.54,113.39 425.2,113.39 425.2,85.04" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="453.54,85.04 481.89,85.04 481.89,113.39 453.54,113.39 453.54,85.04" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="481.89,85.04 510.24,85.04 510.24,113.39 481.89,113.39 481.89,85.04" />
+<polygon fill="rgb(0,0,0)" stroke="none" stroke-width="0" style="stroke-linecap:round;stroke-linejoin:round;"
+          points="510.24,85.04 538.58,85.04 538.58,113.39 510.24,113.39 510.24,85.04" />
+</svg>
